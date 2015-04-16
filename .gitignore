@@ -1,0 +1,4 @@
+Debug/
+test_data/
+*.mk
+*.project
